@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CLDR16 
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning : Java, Python, C++, C#, JavaScript, SQL, MATLAB, R, HTML, CSS, MIPS
 - 💞️ I’m looking to collaborate on Any/All projects
 - 📫 How to reach me DM or Email Cody.Ring@Yahoo.com
